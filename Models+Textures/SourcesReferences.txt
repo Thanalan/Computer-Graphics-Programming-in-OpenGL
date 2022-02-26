@@ -1,0 +1,65 @@
+starfield2048.jpg
+
+  Bourke, P., Representing star fields, 2001. http://paulbourke.net/miscellaneous/starfield/
+  Permission secured by Mercury Learning for use and distribution with textbook.
+
+------------------------------------
+
+dolphinLowPoly.obj
+dolphinHighPoly.obj
+Dolphin_LowPolyUV_wireframe.png
+Dolphin_HighPolyUV_wireframe.png
+Dolphin_HighPolyUV.png
+
+  "Studio522 Dolphin" by Turberville, J., Studio 522 Productions, Scottsdale, AZ.
+  Developed for use with the textbook.
+
+------------------------------------
+
+grid.obj
+pyr.obj
+
+  Gordon, V., developed for use with the textbook.
+
+-------------------------------------
+
+bkgd1.jpg
+brick1.jpg
+castleroof.jpg
+castleroofNORMAL.jpg
+floor_color.jpg
+floor_nmap.jpg
+grass.jpg
+ice.jpg
+
+  Luna, F. Introduction to 3D Game Programming with DirectX 12, 2nd ed., Mercury Learning, 2016.
+  Permission granted for use with the textbook.
+
+--------------------------------------
+
+shuttle.obj
+spstob_1.jpg
+
+  NASA 3D Resources, http://nasa3d.arc.nasa.gov/
+  NASA website states these are available for public non-commercial and commercial use.
+
+--------------------------------------
+
+80801_earthspec2k.jpg
+earthmap1k.jpg
+earthspec1kBLUE.jpg
+earthspec1kNEG.jpg
+earthspec1kNORMAL.jpg
+moon.jpg
+moonbump4kRGB.jpg
+moonmap4k.jpg
+moonNORMAL.jpg
+squareMoonBump.jpg
+squareMoonMap.jpg
+squareMoonNormal.jpg
+sunmap.jpg
+
+  Hastings-Trew, J., JHT’s Planetary Pixel Emporium. http://planetpixelemporium.com/
+  Permission secured by Mercury Learning for use and distribution with textbook.
+
+---------------------------------------
